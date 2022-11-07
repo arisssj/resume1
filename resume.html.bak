@@ -23,11 +23,11 @@
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
     <!-- =======================================================
-  * Template Name: Kelly - v4.9.1  * Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
-  * Author: BootstrapMade.com  * License: https://bootstrapmade.com/license/
+  * Template Name: Kelly - v4.9.1  * Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/  * Author: BootstrapMade.com  * License: https://bootstrapmade.com/license/
   ======================================================== -->
   </head>
-  <body> <!-- ======= Header ======= -->
+  <body> 
+    <!-- ======= Header ======= -->
     <header id="header" class="fixed-top">
       <div class="container-fluid d-flex justify-content-between align-items-center">
         <h1 class="logo me-auto me-lg-0"><a href="index.html">Arissara</a></h1>
@@ -35,16 +35,18 @@
         <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
         <nav id="navbar" class="navbar order-last order-lg-0">
           <ul>
-          	<li><a href="index.html">Home</a></li>
+            <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
             <li><a class="active" href="resume.html">Resume</a></li>
             <li><a href="contact.html">Contact</a></li>
           </ul>
           <i class="bi bi-list mobile-nav-toggle"></i> </nav>
         <!-- .navbar -->
-       <div class="header-social-links"> 
-         <a href="https://web.facebook.com/arisssj#" class="facebook"><i class="bi bi-facebook"></i></a>
-          <a href="https://www.instagram.com/jxwyuu/" class="instagram"><i class="bi bi-instagram"></i></a> </div>
+        <div class="header-social-links"> <a href="https://web.facebook.com/arisssj#"
+
+            class="facebook"><i class="bi bi-facebook"></i></a> <a href="https://www.instagram.com/jxwyuu/"
+
+            class="instagram"><i class="bi bi-instagram"></i></a> </div>
       </div>
     </header>
     <!-- End Header -->
@@ -54,17 +56,18 @@
         <div class="container" data-aos="fade-up">
           <div class="section-title">
             <h2>Resume</h2>
-           <br> 
+            <br>
           </div>
           <div class="row">
             <div class="col-lg-6">
               <h3 class="resume-title">Summary</h3>
               <div class="resume-item pb-0">
                 <h4>Arissara Potinak</h4>
-                <p><em>I'm the information and library science student who thrives on deadlines.  
-                  I'm looking forward to making new friends, having fun, and improving myself. 
-                  You may always rely on me for assistance if you're planning an outside event in the future.
-								</em></p>
+                <p><em>Hi! My name is Arissara Potinak. I'm the information and library science student who
+                    thrives on deadlines. I'm looking forward to making new
+                    friends, having fun, and improving myself. You may always
+                    rely on me for assistance if you're planning an outside
+                    event in the future. </em></p>
                 <p> </p>
                 <ul>
                   <li>095 948 2485</li>
@@ -77,8 +80,9 @@
                 <h4>Bachelor of Arts</h4>
                 <h5>2019 - 2022</h5>
                 <p><em>Silpakorn University, Nakorn Pathom</em></p>
-                <p>Studying in information science and library science was another challenge in my life.
-                  I gained better knowledge of books, databases, services, and data management.</p>
+                <p>Studying in information science and library science was
+                  another challenge in my life. I gained better knowledge of
+                  books, databases, services, and data management.</p>
               </div>
             </div>
             <div class="col-lg-6">
@@ -86,7 +90,8 @@
               <div class="resume-item">
                 <h4>Book Scanner</h4>
                 <h5>June - August 2022</h5>
-                <p><em>Princess Maha Chakri Sirindhorn Anthropology Library Centre, Bangkok </em></p>
+                <p><em>Princess Maha Chakri Sirindhorn Anthropology Library
+                    Centre, Bangkok </em></p>
                 <p> </p>
                 <ul>
                   <li>A special project to scan more than 18000 books' covers.</li>
@@ -97,11 +102,13 @@
               <div class="resume-item">
                 <h4>Librarian Internship</h4>
                 <h5>April - June 2022</h5>
-                <p><em>Princess Maha Chakri Sirindhorn Anthropology Library Centre, Bangkok </em></p>
+                <p><em>Princess Maha Chakri Sirindhorn Anthropology Library
+                    Centre, Bangkok </em></p>
                 <p> </p>
                 <ul>
                   <li>Learn to work as a librarian.</li>
-                  <li>Learn how to manage information resources, serve people, and create multimedia.</li>
+                  <li>Learn how to manage information resources, serve people,
+                    and create multimedia.</li>
                 </ul>
                 <p></p>
               </div>
@@ -112,7 +119,8 @@
                 <p> </p>
                 <ul>
                   <li>Detecting grammatical, punctuation, and spelling problems.</li>
-                    <li>Checking the formatting to make sure all items are present and are formatted correctly.</li>
+                  <li>Checking the formatting to make sure all items are present
+                    and are formatted correctly.</li>
                 </ul>
                 <p></p>
               </div>
