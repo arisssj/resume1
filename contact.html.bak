@@ -4,8 +4,8 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>Contact - Arissara Potinak Resume</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <meta name="description" content="ประวัติส่วนตัวและเรซูเม่ของอริสรา โพธินาค(Arissara Potinak's resume and profile)">
+  	<meta name="keywords" content=" Arissara Potinak, อริสรา โพธินาค, Resume, Profile">
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
@@ -23,9 +23,7 @@
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
     <!-- =======================================================
-  * Template Name: Kelly - v4.9.1  * Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
-  * Author: BootstrapMade.com  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+  * Template Name: Kelly - v4.9.1  * Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/  * Author: BootstrapMade.com  * License: https://bootstrapmade.com/license/  ======================================================== -->
   </head>
   <body> <!-- ======= Header ======= -->
     <header id="header" class="fixed-top">
@@ -42,10 +40,11 @@
           </ul>
           <i class="bi bi-list mobile-nav-toggle"></i> </nav>
         <!-- .navbar -->
-        <div class="header-social-links"> 
-          <a href="https://web.facebook.com/arisssj#" class="facebook"><i class="bi bi-facebook"></i></a>
-          <a href="https://www.instagram.com/jxwyuu/" class="instagram"><i class="bi bi-instagram"></i></a>
-        </div>
+        <div class="header-social-links"> <a href="https://web.facebook.com/arisssj#"
+
+            class="facebook"><i class="bi bi-facebook"></i></a> <a href="https://www.instagram.com/jxwyuu/"
+
+            class="instagram"><i class="bi bi-instagram"></i></a> </div>
       </div>
     </header>
     <!-- End Header -->
@@ -55,10 +54,9 @@
         <div class="container" data-aos="fade-up">
           <div class="section-title">
             <h2>Contact</h2>
-          <br> 
+            <br>
           </div>
-          <div> <iframe style="border:0; width: 100%; height: 270px;" 
-                        src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=คณะอักษรศาสตร์ ศิลปากร&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+          <div> <iframe style="border:0; width: 100%; height: 270px;" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=%E0%B8%84%E0%B8%93%E0%B8%B0%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C+%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%A3&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
 
               allowfullscreen="" frameborder="0"></iframe> </div>
           <div class="row mt-5">
@@ -66,10 +64,10 @@
               <div class="info">
                 <div class="address"> <i class="bi bi-geo-alt"></i>
                   <h4>Location:</h4>
-                  <p>Faculty of Arts, Silpakorn University, 
-                    <br>Sanam Chandra Palace Campus 6, 
-                    <br> Rajamankha Nai Rd., Amphoe Muang, 
-                    <br> Nakhon Pathom 73000</p>
+                  <p>Faculty of Arts, Silpakorn University, <br>
+                    Sanam Chandra Palace Campus 6, <br>
+                    Rajamankha Nai Rd., Amphoe Muang, <br>
+                    Nakhon Pathom 73000</p>
                 </div>
                 <div class="email"> <i class="bi bi-envelope"></i>
                   <h4>Email:</h4>
@@ -130,9 +128,6 @@ rows="5" placeholder="Message" required=""></textarea> </div>
     </footer>
     <!-- End  Footer -->
     <div id="preloader"></div>
-    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
-
-        class="bi bi-arrow-up-short"></i></a>
     <!-- Vendor JS Files -->
     <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
     <script src="assets/vendor/aos/aos.js"></script>
